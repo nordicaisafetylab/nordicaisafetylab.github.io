@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-The **Nordic AI Safety Lab** develops methods to understand and control AI systems. We believe that interpretability—understanding the internal mechanisms of AI—is essential for achieving meaningful control and ensuring safety.
+The **Transparent Intelligence Lab** develops methods to understand and control AI systems. We believe that interpretability, i.e., understanding the internal mechanisms of AI, is essential for achieving meaningful control and ensuring safety.
 
 ## Research Areas
 
-Our research is organized around six interconnected themes, following the research taxonomy established by the [International Association for AI Safety](https://www.iaseai.org):
+Our research is organized around six interconnected themes:
 
 ### Interpretability & Transparency
 
